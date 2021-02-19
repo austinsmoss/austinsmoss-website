@@ -12,8 +12,8 @@ email: "austinsmoss.research@gmail.com"
 highlight_name: false
 interests:
 - Individual investors
-- Information networks
 - Misinformation
+- Information networks
 - Relevant and timely financial market phenomena
 organizations:
 - name: Tippie College of Business - University of Iowa
@@ -29,9 +29,12 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/austinsmoss
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=OT6FzKgAAAAJ
+- icon: ssrn
+  icon_pack: ai
+  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2622750
 - icon: github
   icon_pack: fab
   link: https://github.com/austinsmoss
