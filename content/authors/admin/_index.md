@@ -41,9 +41,9 @@ title: Austin Moss
 
 I am an accounting PhD student at the University of Iowa. I expect to graduate in May 2022 and I will be on the Fall 2021/Spring 2022 job market. 
 
-I strive to use unique data and settings to study relevant, real-world financial market phenomena with an emphasis on how everyday people interact with financial market information. My research investigates how accounting disclosures impact the production of fake news, whether individual investors trade in response to corporate ESG press releases, whether corporate earnings releases impacts presidential vote choices, and how a trader with a significant private information advantage impacts National Basketball Association betting market prices.
+I strive to use unique data and settings to study relevant, real-world financial market phenomena with an emphasis on how everyday people interact with financial market information. 
 
-My job market paper investigates...
+My current research investigates how accounting disclosures impact the production of fake news, whether individual investors trade in response to corporate ESG press releases, whether corporate earnings releases impact presidential vote choices, and how a trader with a significant private information advantage impacts National Basketball Association betting market prices.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/austinsmoss-cv.pdf" "newtab" >}}CV{{< /staticref >}}.
