@@ -1,7 +1,7 @@
 theme: starter-academic
 title: Academic
 baseurl: 'https://austinsmoss.netlify.app/'
-copyright: ''
+copyright: "&copy; Austin Moss {year}"
 enableGitInfo: no
 defaultContentLanguage: en
 hasCJKLanguage: no
