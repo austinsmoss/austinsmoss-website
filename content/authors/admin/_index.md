@@ -39,7 +39,9 @@ superuser: true
 title: Austin Moss
 ---
 
-I am an accounting PhD student at the University of Iowa. I expect to graduate in May 2022 and I will be on the Fall 2021/Spring 2022 job market. My research interests include individual investors, misinformation, information networks, and most other financial market topics that are interesting and relevant to real-world financial markets.
+I am an accounting PhD student at the University of Iowa. I expect to graduate in May 2022 and I will be on the Fall 2021/Spring 2022 job market. 
+
+My research interests include individual investors, misinformation, information networks, and most other financial market topics that are interesting and relevant to real-world financial markets.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/austinsmoss-cv.pdf" "newtab" >}}CV{{< /staticref >}}.
